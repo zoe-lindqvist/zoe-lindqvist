@@ -1,7 +1,12 @@
 - 👋 I’m Zoe, a Computer & Systems Sciences at Stockholm University, Sweden
-- 👀 I’m interested in frontend development, particularly in creating intuitive and visually appealing user interfaces.
-- 🌱 I’m currently attending Technigo's Full-Stack Web Development bootcamp, where I’m honing my skills in HTML, CSS and JavaScript. 
-- 📫 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/zoe-lindqvist/
+- 🌱 I’m currently attending Technigo's Full-Stack Web Development bootcamp. 
+- 💻 Technologies & Tools I Work With:
+- HTML5, CSS3, JavaScript (ES6+)
+- React, Node.js
+- Git & GitHub
+- Figma
+- 📫 Let's connect: 
+- LinkedIn: https://www.linkedin.com/in/zoe-lindqvist/
 
 
 <!---
