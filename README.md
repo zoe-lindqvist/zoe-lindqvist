@@ -6,7 +6,7 @@
   - Git & GitHub
   - Figma
 - 📫 Let's connect: 
-- LinkedIn: https://www.linkedin.com/in/zoe-lindqvist/
+  - LinkedIn: https://www.linkedin.com/in/zoe-lindqvist/
 
 
 <!---
