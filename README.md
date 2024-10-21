@@ -1,7 +1,7 @@
 - 👋 I’m Zoe, a Computer & Systems Sciences student at Stockholm University.
 - 🌱 I’m currently attending Technigo's Fullstack Web Development bootcamp. 
 - 💻 Technologies & Tools I work with:
-  - HTML5, CSS3, JavaScript (ES6+), TypeScript
+  - HTML5, CSS3, JavaScript/TypeScript
   - React, Node.js
   - Git & GitHub
   - Figma
