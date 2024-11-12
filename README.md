@@ -8,6 +8,8 @@
 - 📫 Let's connect: 
   - LinkedIn: https://www.linkedin.com/in/zoe-lindqvist/
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zoe-lindqvist.zoe-lindqvist)
+
 
 <!---
 zoe-lindqvist/zoe-lindqvist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
