@@ -2,7 +2,9 @@
 
 ### About me
 
-- I'm studying Computer & Systems Science at Stockholm University while attending Technigo's Web Development bootcamp. 
+- 🎓 I'm studying Computer & Systems Science at Stockholm University
+- 🚀 At the same time, I'm attending Technigo's Web Development BootCamp
+- 🗣️ I have a background in linguistics and teaching
 
 ### 💻 Technologies & Tools I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -18,6 +20,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 ### 📫 Let's connect 
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zoe-lindqvist/)
 
