@@ -1,9 +1,10 @@
-## Hi there👋 
+## Hi there👋 I’m Zoe,
 
-- I’m Zoe, a Computer & Systems Sciences student at Stockholm University.
-- 🌱 I’m currently attending Technigo's Web Development bootcamp. 
+### About me
 
-### 💻 Technologies & Tools I work with:
+- I'm studying Computer & Systems Science at Stockholm University while attending Technigo's Web Development bootcamp. 
+
+### 💻 Technologies & Tools I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -16,11 +17,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-### 📫 Let's connect: 
+### 📫 Let's connect 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zoe-lindqvist/)
 
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zoe-lindqvist.zoe-lindqvist)
 
 <!---
 zoe-lindqvist/zoe-lindqvist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
