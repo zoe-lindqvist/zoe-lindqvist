@@ -15,14 +15,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-  - HTML5, CSS3, JavaScript/TypeScript
-  - React, Node.js
-  - Git & GitHub
-  - Figma
-- 📫 Let's connect: 
-  - LinkedIn: https://www.linkedin.com/in/zoe-lindqvist/
+### 📫 Let's connect: 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zoe-lindqvist.zoe-lindqvist)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zoe-lindqvist/)
+
 
 
 <!---
