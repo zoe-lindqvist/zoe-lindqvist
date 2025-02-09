@@ -3,7 +3,7 @@
 ### About me:
 
 - 🎓 I'm studying Computer & Systems Science at Stockholm University
-- 🚀 At the same time, I'm attending Technigo's Web Development BootCamp
+- 🚀 Graduate of Technigo's Web Development BootCamp
 - 📚 I have a background in linguistics and teaching
 
 ### Technologies & Tools I'm currently working with:
