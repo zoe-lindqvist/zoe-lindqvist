@@ -20,9 +20,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
+### My Portfolio:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://zoe-lindqvist-portfolio.netlify.app/)
+
 ### Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zoe-lindqvist/)
+
+
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zoe-lindqvist.zoe-lindqvist)
