@@ -2,9 +2,9 @@
 
 ### About me:
 
+- 👩🏻‍🏫 IT vocational teacher
 - 🎓 I'm studying Computer & Systems Science at Stockholm University
 - 🚀 Graduate of Technigo's Web Development BootCamp
-- 📚 I have a background in linguistics and teaching
 
 ### Technologies & Tools I'm currently working with:
 
