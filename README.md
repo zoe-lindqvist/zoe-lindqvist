@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 IT Vocational Teacher
 - 🎓 Studying IT Project Management (Stockholm University)
-- 🎓 BA in Computer & Systems Science (Stockholm University)
+- 🎓 BA in Computer & Systems Sciences (Stockholm University)
 - 🚀 Graduate of Technigo's Web Development BootCamp
 
 ### Technologies & Tools I'm currently working with:
