@@ -2,8 +2,7 @@
 
 ### About me:
 
-- 👩🏻‍💻 IT Vocational Teacher
-<!-- 🎓 Studying IT Project Management (Stockholm University) -->
+- 👩🏻‍💻 IT Vocational Teacher<!-- 🎓 Studying IT Project Management (Stockholm University) -->
 - 🎓 BA in Computer & Systems Sciences (Stockholm University)
 - 🚀 Graduate of Technigo's Web Development BootCamp
 
